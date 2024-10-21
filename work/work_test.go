@@ -3,7 +3,7 @@ package work
 import (
 	"testing"
 
-	"elwood/model"
+	"car-pooling/model"
 )
 
 // TestComputeCars function for testing the computeCars function.

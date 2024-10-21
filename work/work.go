@@ -6,8 +6,8 @@ import (
 	"sort"
 	"strings"
 
-	"elwood/model"
-	"elwood/parser"
+	"car-pooling/model"
+	"car-pooling/parser"
 )
 
 // ProcessFile coordinates parsing and solution logic for each test case

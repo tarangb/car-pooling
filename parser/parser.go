@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"elwood/model"
+	"car-pooling/model"
 )
 
 func ParseFile(filePath string) (int, []model.Input, error) {

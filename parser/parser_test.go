@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"elwood/model"
+	"car-pooling/model"
 )
 
 // Helper function to create a temporary file with content
